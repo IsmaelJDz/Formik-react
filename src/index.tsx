@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import FormDemo from './FormDemo';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <div style={{ margin: '0 auto', width: '80%' }}>
+    <FormDemo />
+  </div>,
   document.getElementById('root')
 );
 
