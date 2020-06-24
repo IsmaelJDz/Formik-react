@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## App how to use Formik and yup
 
-![Captura de la app](./.readme-static/404.png)
+![Captura de la app](./.static-files/Formik.png)
 
 ## Licencia
 
